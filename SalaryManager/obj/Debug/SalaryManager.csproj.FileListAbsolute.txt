@@ -1,0 +1,164 @@
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe.config
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\SalaryManager.pdb
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\MetroFramework.Design.dll
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\MetroFramework.dll
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form1.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Properties.Resources.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.exe
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.pdb
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SignIn.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.FirstPage.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.DirectorManagerPanel.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form2.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.AddEmployee.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.EditProfile.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.PasswordChange.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SalaryGradeSettings.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.GeneralEmployeePanel.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.ApplyForLoan.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.LoanStatus.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TakeLeave.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SellLeave.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.QueryTax.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.ReportOfficeTravel.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TravelCostSubmission.resources
+C:\Users\USER\Desktop\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TakePayment.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe.config
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.exe
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.pdb
+E:\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe
+E:\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\SalaryManager.pdb
+E:\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\MetroFramework.Design.dll
+E:\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\MetroFramework.dll
+E:\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\MetroFramework.Fonts.dll
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.AddEmployee.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.ApplyForLoan.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.QueryTax.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.ReportOfficeTravel.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SellLeave.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TakeLeave.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.DirectorManagerPanel.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.EditProfile.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.FirstPage.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form1.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form2.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.GeneralEmployeePanel.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.LoanStatus.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.PasswordChange.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Properties.Resources.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SalaryGradeSettings.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SignIn.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TakePayment.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TravelCostSubmission.resources
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csproj.GenerateResource.Cache
+E:\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\EmpployeeInfo.mdf
+E:\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\EmpployeeInfo_log.ldf
+E:\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\itextsharp.dll
+E:\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\itextsharp.xml
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.EmployeeInfo.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe.config
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.exe
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\bin\Debug\EmpployeeInfo.mdf
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\bin\Debug\EmpployeeInfo_log.ldf
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\bin\Debug\SalaryManager.pdb
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\bin\Debug\itextsharp.dll
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\bin\Debug\MetroFramework.Design.dll
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\bin\Debug\MetroFramework.dll
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\bin\Debug\itextsharp.xml
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.AddEmployee.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.ApplyForLoan.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.EmployeeInfo.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.QueryTax.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.ReportOfficeTravel.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SellLeave.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TakeLeave.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.DirectorManagerPanel.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.EditProfile.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.FirstPage.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form1.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form2.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.GeneralEmployeePanel.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.LoanStatus.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.PasswordChange.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Properties.Resources.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SalaryGradeSettings.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SignIn.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TakePayment.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TravelCostSubmission.resources
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\SalaryManager\SalaryManager\obj\Debug\SalaryManager.pdb
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe.config
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.exe
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.pdb
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\EmpployeeInfo.mdf
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\EmpployeeInfo_log.ldf
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\SalaryManager.pdb
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\itextsharp.dll
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\MetroFramework.Design.dll
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\MetroFramework.dll
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\MetroFramework.Fonts.dll
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\bin\Debug\itextsharp.xml
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csprojResolveAssemblyReference.cache
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.AddEmployee.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.ApplyForLoan.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.EmployeeInfo.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.QueryTax.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.ReportOfficeTravel.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SellLeave.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TakeLeave.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.DirectorManagerPanel.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.EditProfile.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.FirstPage.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form1.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form2.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.GeneralEmployeePanel.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.LoanStatus.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.PasswordChange.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Properties.Resources.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SalaryGradeSettings.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SignIn.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TakePayment.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TravelCostSubmission.resources
+E:\OBJECT ORIENTED PROGRAMMING 2 [C#]\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csproj.GenerateResource.Cache
+E:\Project Salary Manager\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csprojResolveAssemblyReference.cache
+F:\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe.config
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.exe
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.pdb
+F:\SalaryManager\SalaryManager\bin\Debug\EmpployeeInfo.mdf
+F:\SalaryManager\SalaryManager\bin\Debug\EmpployeeInfo_log.ldf
+F:\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe
+F:\SalaryManager\SalaryManager\bin\Debug\SalaryManager.pdb
+F:\SalaryManager\SalaryManager\bin\Debug\itextsharp.dll
+F:\SalaryManager\SalaryManager\bin\Debug\MetroFramework.Design.dll
+F:\SalaryManager\SalaryManager\bin\Debug\MetroFramework.dll
+F:\SalaryManager\SalaryManager\bin\Debug\MetroFramework.Fonts.dll
+F:\SalaryManager\SalaryManager\bin\Debug\itextsharp.xml
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csprojResolveAssemblyReference.cache
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.AddEmployee.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.ApplyForLoan.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.EmployeeInfo.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.QueryTax.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.ReportOfficeTravel.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SellLeave.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TakeLeave.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.DirectorManagerPanel.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.EditProfile.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.FirstPage.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form1.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form2.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.GeneralEmployeePanel.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.LoanStatus.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.PasswordChange.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Properties.Resources.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SalaryGradeSettings.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.SignIn.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TakePayment.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.TravelCostSubmission.resources
+F:\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csproj.GenerateResource.Cache

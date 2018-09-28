@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="EmpInfoLinq">
+  <DataContextMoniker Name="/EmpInfoLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="71f323d1-768f-4cde-9c7b-e58309f0d22f" absoluteBounds="3.5, 1.625, 2, 1.7982710774739579">
+      <DataClassMoniker Name="/EmpInfoLinqDataContext/CheckIn" />
+      <nestedChildShapes>
+        <elementListCompartment Id="02d0db6d-7629-427c-a035-692e4868a502" absoluteBounds="3.515, 2.085, 1.9700000000000002, 1.2382710774739583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="55fd954f-1bbf-4a10-a629-64d346c7f082" absoluteBounds="0.75, 1, 2, 3.1738610839843755">
+      <DataClassMoniker Name="/EmpInfoLinqDataContext/EmpInformation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d4ad5510-7a27-4bf8-bef7-1bf4c947f39f" absoluteBounds="0.765, 1.46, 1.9700000000000002, 2.613861083984375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="744a646b-6437-4b97-9c24-b55b353ed5bc" absoluteBounds="3.75, 4.75, 2, 3.1738610839843755">
+      <DataClassMoniker Name="/EmpInfoLinqDataContext/Loans_Leave" />
+      <nestedChildShapes>
+        <elementListCompartment Id="10348fcd-fa4e-4ea4-b51c-8171f96dc908" absoluteBounds="3.765, 5.21, 1.9700000000000002, 2.613861083984375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="767f0b27-c05f-4e96-a786-05c84432a585" absoluteBounds="6.75, 0.75, 2, 2.3878096516927085">
+      <DataClassMoniker Name="/EmpInfoLinqDataContext/SalaryG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1aed7d26-ff32-4fef-9fc9-762a28ca43bc" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.8278096516927085" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="053d62dc-9739-4e94-bb4f-f11750230505" absoluteBounds="6.75, 4.75, 2, 2.7808353678385416">
+      <DataClassMoniker Name="/EmpInfoLinqDataContext/taxAndSal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c156f143-00c4-4a4d-838f-6ae112dfd788" absoluteBounds="6.765, 5.21, 1.9700000000000002, 2.2208353678385415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.52413553873698); (3.5 : 2.52413553873698)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/EmpInfoLinqDataContext/EmpInformation/EmpInformation_CheckIn" />
+      <nodes>
+        <classShapeMoniker Id="55fd954f-1bbf-4a10-a629-64d346c7f082" />
+        <classShapeMoniker Id="71f323d1-768f-4cde-9c7b-e58309f0d22f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

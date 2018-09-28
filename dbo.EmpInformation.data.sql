@@ -1,0 +1,2 @@
+﻿INSERT INTO [dbo].[EmpInformation] ([Id1], [Id2], [Name], [Rank], [SalaryGrade], [PhoneNumber], [EmailAddress], [HomeAddress], [Password], [DateofBirth]) VALUES (N'A', N'12345', N'Shabab,A.K.M', N'Directing Manager', N'1', N'01911612000', N'sabab.pdb@gmail.com', N'ABCD Khulna', N'2170', NULL)
+INSERT INTO [dbo].[EmpInformation] ([Id1], [Id2], [Name], [Rank], [SalaryGrade], [PhoneNumber], [EmailAddress], [HomeAddress], [Password], [DateofBirth]) VALUES (N'E', N'54321', N'lowEmployee', N'Employee', N'5', N'01900000000', N'email@gmail.com', N'abcd Dhaka', N'1234', NULL)

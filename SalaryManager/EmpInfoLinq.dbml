@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EmpployeeInfo" Class="EmpInfoLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\EmpployeeInfo.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="SalaryManager.Properties.Settings" SettingsPropertyName="EmpployeeInfoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CheckIn" Member="CheckIns">
+    <Type Name="CheckIn">
+      <Column Name="Id2" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CheckinMark" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PCheckInMark" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CheckInCounter" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="EmpInformation_CheckIn" Member="EmpInformation" ThisKey="Id2" OtherKey="Id2" Type="EmpInformation" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EmpInformation" Member="EmpInformations">
+    <Type Name="EmpInformation">
+      <Column Name="Id1" Type="System.Char" DbType="Char(1) NOT NULL" CanBeNull="false" />
+      <Column Name="Id2" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Rank" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SalaryGrade" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="EmailAddress" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="HomeAddress" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Image" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="DateofBirth" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Under" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="EmpInformation_CheckIn" Member="CheckIn" ThisKey="Id2" OtherKey="Id2" Type="CheckIn" Cardinality="One" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Loans&amp;Leaves]" Member="Loans_Leaves">
+    <Type Name="Loans_Leave">
+      <Column Name="Id2" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LeaveDays" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LoanAmount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PayAmount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SavingsAccount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Year" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DiscriptionL" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="TotalLoan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SellLeaveAmount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LeaveF" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="LeaveT" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="LPay" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SalaryG" Member="SalaryGs">
+    <Type Name="SalaryG">
+      <Column Name="SalaryGrade" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HomeAl" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="HealthAl" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Salary" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DayAl" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Bonus" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="HomeAlp" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="HealthAlp" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.taxAndSal" Member="taxAndSals">
+    <Type Name="taxAndSal">
+      <Column Name="Id2" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PendingTax" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SalaryGrade" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Salary" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="HomeAl" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="HealthAl" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TravelAl" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DayAl" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Year" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Count" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
